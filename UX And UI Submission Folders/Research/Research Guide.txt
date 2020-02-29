@@ -1,0 +1,5 @@
+Research document should clearly link all breakdowns and other reference images to your final result.
+
+Research document should clearly indicate the differences between designing for PC and designing for mobile devices.
+
+Ideally your research should also include references to intended user personas and how you catered to them, but that's less necessary here than it will be in future.

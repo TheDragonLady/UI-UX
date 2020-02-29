@@ -1,0 +1,16 @@
+Reflection document should be .pdf format, 750 - 1000 words.
+
+It should include a discussion of your intended game project, which screen you chose to implement, and what you learned from your research and the various changes that you made over the course of making the screens.
+
+Remember that reflection documents are less about how you got to the end result of the project- that's primarily for your research document- and more about the changes you have undergone as a designer in the course of completing this project.
+
+Recommended headings:
+
+Intent and Result
+	A description of what you set out to do, and an assessment of how well you achieved that intent
+
+Problems and Solutions
+	A description of issues encountered along the way, and what you did to solve them
+
+Personal Development
+	A discussion of how you plan to approach similar problems in future- be more general than specific technical issues, but more specific than motivating statements

@@ -1,0 +1,7 @@
+Final screens should either be in .pdf format with clear indicators of which buttons lead the user where, or in a publicly-accessible, but not editable, copy of your working figma document.
+
+Previous version screens should indicate development of ideas from PC to touchscreen, as well as any development from responses to feedback.
+
+Make sure that someone who is not logged in to Figma can access your Figma documents!
+
+Screens folder should include a .pdf document clearly indicating your development, feedback, how you responded, and your menu / button / icon for submission requirements

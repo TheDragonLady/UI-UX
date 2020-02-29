@@ -1,0 +1,24 @@
+Ideal submission:
+
+UX and UI Submission Folders / Research / Breakdowns
+	Minimum 3 UX breakdowns of competitor products.
+
+UX and UI Submission Folders / Research / Other References
+	Clear indication of research into look and feel of other products. Be sure to indicate sources.
+
+UX and UI Submission Folders / Research
+	One pdf document containing research, ideally with reference images and use in final result, in a readable format.
+
+
+UX and UI Submission Folders / Screens / Previous Versions
+	Any saved working or draft versions, preferably with labels indicating order.
+
+UX and UI Submission Folders / Screens / Final Version
+	Single figma link or pdf document leading to final version of the submitted screens.
+
+UX and UI Submission Folders / Screens
+	One pdf document containing feedback and responses to feedback, ideally with images, in a readable format.
+
+
+UX and UI Submission Folders
+	One pdf document containing reflection (750 - 1000 words) in a readable format.
